@@ -109,24 +109,18 @@ Example: https://sms-spam-detector.streamlit.app
 Install dependencies
 Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # For Linux/Mac
 venv\Scripts\activate     # For Windows
+
+
 Then install the requirements:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 
 Start the Streamlit app by running:
 
-bash
-Copy
-Edit
 streamlit run app.py
 Open your browser and go to:
 http://localhost:8501
